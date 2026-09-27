@@ -1,0 +1,7 @@
+Educational fixture only. This synthetic adult asthma review workflow is for retrieval demonstrations and must not be used for patient care.
+
+Assessment begins by documenting the person's current symptoms, recent changes in breathing, night waking, activity limitation, known triggers, and any recent urgent visits. The reviewer confirms the current medicine list, adherence, inhaler technique, access barriers, smoking or vaping exposure, allergies, and relevant coexisting conditions. Previously recorded objective measurements may be summarized when they are present in the source record, but missing measurements must not be invented.
+
+Warning signs such as marked breathing difficulty, inability to speak comfortably, reduced alertness, or rapid deterioration require immediate clinician assessment under the current approved local escalation process. The synthetic fixture intentionally omits treatment amounts, medication doses, and timing instructions.
+
+Documentation should distinguish the person's report from the reviewer's observations. Record education provided, technique checks, agreed trigger-reduction steps, unresolved questions, and who is responsible for follow-up. Before closing the review, confirm that the person understands the warning signs and knows how to contact the appropriate clinical service.

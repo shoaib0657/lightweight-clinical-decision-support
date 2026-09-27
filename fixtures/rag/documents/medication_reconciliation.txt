@@ -1,0 +1,7 @@
+Educational fixture only. Medication reconciliation is a structured comparison of the medicines a person reports using with the medicines documented by available care records. It is not a prescribing activity in this synthetic workflow.
+
+Begin by identifying the sources consulted, such as the person's own account, a caregiver-provided list, pharmacy information, prior discharge documents, and the current clinical record. For each medicine, confirm the name, formulation when relevant, route, schedule, indication, last known use, allergies, and whether the person is actually taking it as recorded. This fixture contains no example medication doses.
+
+Classify differences as intentional, unresolved, or likely documentation errors. Examples include an omitted medicine, a duplicated entry, conflicting schedules, unclear directions, or a medicine the person reports stopping. Do not silently resolve a discrepancy. Record the source of each clarification, the clinician responsible for review, and any question still awaiting confirmation.
+
+At transitions of care, provide the receiving team with the reconciled list and a concise account of changes and unresolved items. Use teach-back or another confirmation method when discussing the list with the person or caregiver, and document access or language barriers that may affect safe follow-up.

@@ -1,0 +1,14 @@
+{"schema_version":"1.0","id":"dka-initial-assessment","query":"What information should be recorded during the initial assessment of pediatric diabetic ketoacidosis?","expected_source_suffixes":["pediatric_dka.jsonl#1"]}
+{"schema_version":"1.0","id":"dka-transfer-handoff","query":"What should be included when a pediatric DKA case is handed to another team or location?","expected_source_suffixes":["pediatric_dka.jsonl#2"]}
+{"schema_version":"1.0","id":"asthma-review","query":"Which symptoms, exposures, and medicine-use factors belong in an adult asthma review?","expected_source_suffixes":["asthma_protocol.txt"]}
+{"schema_version":"1.0","id":"asthma-escalation","query":"Which warning signs require immediate clinician assessment in the asthma workflow?","expected_source_suffixes":["asthma_protocol.txt"]}
+{"schema_version":"1.0","id":"radiology-clinician-summary","query":"What information should a clinician-facing radiology summary preserve?","expected_source_suffixes":["radiology_summary.md"]}
+{"schema_version":"1.0","id":"radiology-patient-explanation","query":"How should radiology findings and uncertainty be explained to a patient?","expected_source_suffixes":["radiology_summary.md"]}
+{"schema_version":"1.0","id":"medication-source-review","query":"Which information sources should be consulted during medication reconciliation?","expected_source_suffixes":["medication_reconciliation.txt"]}
+{"schema_version":"1.0","id":"medication-discrepancy","query":"How should unresolved medicine discrepancies be classified and documented?","expected_source_suffixes":["medication_reconciliation.txt"]}
+{"schema_version":"1.0","id":"discharge-clinician-handoff","query":"What pending-result ownership details belong in a clinician discharge handoff?","expected_source_suffixes":["discharge_communication.md"]}
+{"schema_version":"1.0","id":"discharge-patient-explanation","query":"What should a plain-language patient discharge explanation cover?","expected_source_suffixes":["discharge_communication.md"]}
+{"schema_version":"1.0","id":"sepsis-recognition","query":"What observations should be documented when suspected infection is accompanied by new deterioration?","expected_source_suffixes":["safety_workflows.jsonl#1"]}
+{"schema_version":"1.0","id":"sepsis-structured-handoff","query":"What must a structured sepsis concern handoff communicate and confirm?","expected_source_suffixes":["safety_workflows.jsonl#1"]}
+{"schema_version":"1.0","id":"critical-result-verification","query":"What should be verified before communicating a critical laboratory or imaging result?","expected_source_suffixes":["safety_workflows.jsonl#2"]}
+{"schema_version":"1.0","id":"critical-result-documentation","query":"What acknowledgement and escalation details should be recorded for a critical result?","expected_source_suffixes":["safety_workflows.jsonl#2"]}
